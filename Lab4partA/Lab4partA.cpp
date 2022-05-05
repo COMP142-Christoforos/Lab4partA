@@ -22,7 +22,7 @@ int main() {
 	srand(time(NULL));//Seed ransd num gen.
 	
 		
-	drawHorizontalLine(10, 'x');
+	drawRandomShapes(4);
 
 
 		

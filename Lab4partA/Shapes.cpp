@@ -97,8 +97,7 @@ void drawRectangle(const int height, const int length, const char ch) {
 * @param numShapes How many random shapes to draw.
 */
 void drawRandomShapes(int numShapes) {
-	cout << "Enter the number for the random shape";
-	cin >> numShapes;
+	
 	assert(numShapes > 0);//pre condition
 
 	for (int i = 0; i < numShapes; i++) {
