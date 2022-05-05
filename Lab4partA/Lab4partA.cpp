@@ -8,6 +8,7 @@
 #include<cstdlib>
 #include<ctime>
 #include<cassert>
+#include"Shapes.h"
 using namespace std;
 
 /**
